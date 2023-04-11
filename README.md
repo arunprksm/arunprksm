@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Arun Prakasam
-- 👀 I’m interested in Gaming, GameDevelopment
-- 🌱 I’m currently learning Unity Game Development
-- 💞️ I’m looking to collaborate on 2d 3d game projects
+- 👋 Hi, I’m Arun Prakasam.
+- 👀 I’m interested in Gaming, GameDevelopment.
+- 😎 I'm skilled in Unity game development.
+- 🌱 I’m currently learning Unreal Engine Game Development.
+- 💞️ I’m looking to collaborate on 2d 3d game projects.
 - 📫 How to reach me - arunprksm23@gmail.com
 
 <!---
